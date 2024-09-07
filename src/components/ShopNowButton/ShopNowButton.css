@@ -1,0 +1,76 @@
+b {
+    position: relative;
+    padding: 10px 30px;
+    text-align: center;
+    display: block;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 170px;
+    overflow: hidden;
+    border-radius: 50px;
+  }
+  
+  b span {
+    position: relative;
+    z-index: 1;
+    color: #FFF;
+    font-size: 18px;
+  }
+  
+  b .liquid {
+    position: absolute;
+    left: 0;
+    top: -80px;
+    width: 200px;
+    height: 200px;
+    background-color: #ca6f1a;
+    box-shadow: inset 0 0 50px #000000;
+    transition: 0.5s;
+  }
+  
+  b:hover .liquid {
+    animation: fillup 0.125s linear;
+    animation-fill-mode: forwards;
+  }
+  
+  b .liquid:before, b .liquid:after {
+    content: '';
+    position: absolute;
+    width: 200%;
+    height: 210%;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%, -75%);
+    background: #995200;
+  }
+  
+  b .liquid:before {
+    border-radius: 45%;
+    background: #633000;
+    animation: slosh 5s linear infinite;
+  }
+  
+  b .liquid:after {
+    border-radius: 40%;
+    background: #000;
+    animation: slosh 10s linear infinite;
+  }
+  
+  @keyframes fillup {
+    0% {
+      top: -80px;
+    }
+    100% {
+      top: -120px;
+    }
+  }
+  
+  @keyframes slosh {
+    0% {
+      transform: translate(-50%, -75%) rotate(0deg);
+    }
+    100% {
+      transform: translate(-50%, -75%) rotate(360deg);
+    }
+  }
+  

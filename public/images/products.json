@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Caramel Topping",
+    "category": "topping",
+    "price": "$10.00",
+    "rating": 4.5,
+    "discount": "10% OFF",
+    "image": "../images/caramel.png"
+  },
+  {
+    "name": "Chocolate Topping",
+    "category": "topping",
+    "price": "$12.00",
+    "rating": 4.0,
+    "discount": false,
+    "image": "../images/choco.png"
+  },
+  {
+    "name": "Plain Cups 1",
+    "category": "cup",
+    "price": "$10.00",
+    "rating": 4.5,
+    "discount": "10% OFF",
+    "image": "../images/cup1.png"
+  },
+  {
+    "name": "Plain cups 3",
+    "category": "cup",
+    "price": "$10.00",
+    "rating": 4.5,
+    "discount": "10% OFF",
+    "image": "../images/cup3.png"
+  },
+  {
+    "name": "Plain Cups 2",
+    "category": "cup",
+    "price": "$8.00",
+    "rating": 4.2,
+    "discount": false,
+    "image": "../images/cup2.png"
+  },
+  {
+    "name": "Plain cups 4",
+    "category": "cup",
+    "price": "$15.00",
+    "rating": 4.8,
+    "discount": "5% OFF",
+    "image": "../images/cup4.png"
+  },
+  {
+    "name": "Strawberry Topping",
+    "category": "topping",
+    "price": "$6.00",
+    "rating": 4.7,
+    "discount": "10% OFF",
+    "image": "../images/strawberry.png"
+  },
+  {
+    "name": "Sirop Strawberry",
+    "category": "sirop",
+    "price": "$12.00",
+    "rating": 4.6,
+    "discount": "15% OFF",
+    "image": "../images/sirop-strawberry.png"
+  },
+  {
+    "name": "Sirop Vanilla",
+    "category": "sirop",
+    "price": "$14.00",
+    "rating": 4.4,
+    "discount": false,
+    "image": "../images/sirop-vanilla.png"
+  },
+  {
+    "name": "Coffee Large Pack",
+    "category": "coffee",
+    "price": "$10.00",
+    "rating": 4.3,
+    "discount": "10% OFF",
+    "image": "../images/coffee-pack.png"
+  },
+  {
+    "name": "Nesquik Powder",
+    "category": "cacao",
+    "price": "$10.00",
+    "rating": 4.3,
+    "discount": "10% OFF",
+    "image": "../images/nesquik-powder.png"
+  },
+  {
+    "name": "Ja Kakao powder",
+    "category": "cacao",
+    "price": "$10.00",
+    "rating": 4.3,
+    "discount": "10% OFF",
+    "image": "../images/ja-kakao.png"
+  },
+  {
+    "name": "Chocao powder",
+    "category": "cacao",
+    "price": "$10.00",
+    "rating": 4.3,
+    "discount": "10% OFF",
+    "image": "../images/chocao.png"
+  },
+  {
+    "name": "Ja Substoff",
+    "category": "cacao",
+    "price": "$10.00",
+    "rating": 4.3,
+    "discount": "10% OFF",
+    "image": "../images/ja-substoff.png"
+  },
+  {
+    "name": "Khatra Honey",
+    "category": "honey",
+    "price": "$10.00",
+    "rating": 4.3,
+    "discount": "10% OFF",
+    "image": "../images/honey.png"
+  },
+  {
+    "name": "Sirop Pack",
+    "category": "sirop",
+    "price": "$10.00",
+    "rating": 4.3,
+    "discount": "10% OFF",
+    "image": "../images/sirop-pack.png"
+  },
+  {
+    "name": "Towel pack",
+    "category": "supplies",
+    "price": "$10.00",
+    "rating": 4.3,
+    "discount": "10% OFF",
+    "image": "../images/towels.png"
+  },
+  {
+    "name": "Aluminum rolls",
+    "category": "supplies",
+    "price": "$10.00",
+    "rating": 4.3,
+    "discount": "10% OFF",
+    "image": "../images/aluminum-rolls.png"
+  },
+  {
+    "name": "Plain cups 5",
+    "category": "cup",
+    "price": "$10.00",
+    "rating": 4.3,
+    "discount": "10% OFF",
+    "image": "../images/cup5.png"
+  },
+  {
+    "name": "Sugar packs",
+    "category": "supplies",
+    "price": "$10.00",
+    "rating": 4.3,
+    "discount": "10% OFF",
+    "image": "../images/sugar-packs.png"
+  }
+]
